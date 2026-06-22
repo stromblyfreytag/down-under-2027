@@ -1,7 +1,7 @@
 ---
 title: Another template attempt
 date: 2026-06-22
-image: 2.jpg
+image: example.png
 description: A description I like
 categories:
   - Testing
