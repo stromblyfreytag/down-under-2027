@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d84bae46e49895b",
+  "active": "1aed7cb9dac13fda",
   "lastOpenFiles": [
+    "content/post/_template/example.png",
+    "content/post/_template/TemplatePic.png",
     "content/post/hello-test/index.md",
     "content/post/templateTry/index.md",
     "content/post/hello-world/index.md",
