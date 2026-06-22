@@ -6,4 +6,4 @@ description: An optional description
 draft: "true"
 ---
 This is the template.  To add an image, drop it in THIS folder and then reference it:
-![A caption](example.png)
+![A caption](file.png)
