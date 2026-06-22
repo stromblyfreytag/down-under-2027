@@ -1,5 +1,5 @@
 ___
-title: "Your post title"
+title: "Template for posting"
 date: 2026-01-01
 draft: true
 # description: "Optional one-line summary in the post list"
