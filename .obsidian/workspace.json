@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/_template/index.md",
+                "file": "content/post/TemplateTry/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/_template/index.md",
+                "file": "content/post/TemplateTry/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/_template/index.md",
+                "file": "content/post/TemplateTry/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/_template/index.md",
+                "file": "content/post/TemplateTry/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,20 +184,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aed7cb9dac13fda",
+  "active": "4d84bae46e49895b",
   "lastOpenFiles": [
+    "content/post/_template/index.md",
+    "content/post/TemplateTry/index.md",
+    "content/post/TemplateTry/example.png",
+    "content/post/TemplateTry",
+    "content/post/_template - Copy/index.md",
+    "content/post/_template - Copy/example.png",
+    "content/post/_template - Copy",
     "content/post/_template/example.png",
     "content/post/_template/TemplatePic.png",
     "content/post/hello-test/index.md",
     "content/post/templateTry/index.md",
     "content/post/hello-world/index.md",
     "content/post/hello-world/cover.jpg",
-    "content/post/_template/index.md",
     "content/post/templateTry/TemplatePic.png",
     "content/post/templateTry/Screenshot 2025-03-21 084438.png",
     "content/post/templateTry",
-    "content/post/_template - Copy/index.md",
-    "content/post/_template - Copy",
     "content/post/_template",
     "content/post/hello-test"
   ]

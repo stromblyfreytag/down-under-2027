@@ -1,7 +1,9 @@
-___
-title: "My First Template Post"
-date: 2026-06-22
-# description: "Optional one-line summary in the post list"
-# image: "TemplatePic.png"
 ---
-This is my first template post.  It should have a cover picture.
+title: This is the title
+date: 2026-01-01
+image: cover.jpg
+description: An optional description
+draft: "false"
+---
+This is the template.  To add an image, drop it in THIS folder and then reference it:
+![A caption](example.png)
