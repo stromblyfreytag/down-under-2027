@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/TemplateTry/index.md",
+                "file": "content/post/MyTemplate/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/TemplateTry/index.md",
+                "file": "content/post/MyTemplate/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d84bae46e49895b",
+  "active": "1aed7cb9dac13fda",
   "lastOpenFiles": [
-    "content/post/TemplateTry/example.png",
-    "content/post/TemplateTry/index.md",
+    "content/post/MyTemplate/example.png",
+    "content/post/MyTemplate/index.md",
     "content/post/_template/index.md",
     "content/post/_template/example.png",
-    "content/post/TemplateTry",
+    "content/post/MyTemplate",
     "content/post/_template - Copy/index.md",
     "content/post/_template - Copy/example.png",
     "content/post/_template - Copy",
