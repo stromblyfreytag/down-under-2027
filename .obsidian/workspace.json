@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/MyTemplate/index.md",
+                "file": "content/post/First phone image/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/MyTemplate/index.md",
+                "file": "content/post/First phone image/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +185,13 @@
   },
   "active": "4d84bae46e49895b",
   "lastOpenFiles": [
+    "content/post/First phone image/PXL_20260628_192953391 (Blog 1600).jpg",
+    "content/post/MyTemplate/index.md",
+    "content/post/First phone image/index.md",
+    "content/post/First phone image",
     "assets/img/_template/index.md",
     "assets/img/_template",
     "content/post/MyTemplate/example.png",
-    "content/post/MyTemplate/index.md",
     "content/post/_template/index.md",
     "content/post/_template/example.png",
     "content/post/MyTemplate",
